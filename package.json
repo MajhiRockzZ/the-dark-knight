@@ -3,6 +3,7 @@
     "displayName": "The Dark Knight",
     "description": "A VS Code dark theme for contrast for nighttime coding.",
     "version": "0.0.1",
+    "publisher": "MajhiRockzZ",
     "engines": {
         "vscode": "^1.38.0"
     },
