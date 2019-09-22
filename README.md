@@ -11,6 +11,7 @@ It was really time consuming to setup you code editor overtime you switch differ
 ## Code style
 
 ## Screenshots
+![](./assets/Screenshot.png)
 
 ## Tech/framework used
 
