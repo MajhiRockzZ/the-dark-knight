@@ -1,0 +1,21 @@
+{
+    "name": "the-dark-knight",
+    "displayName": "The Dark Knight",
+    "description": "A VS Code dark theme for contrast for nighttime coding.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "The Dark Knight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/The Dark Knight-color-theme.json"
+            }
+        ]
+    }
+}
