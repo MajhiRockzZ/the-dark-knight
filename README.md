@@ -1,13 +1,38 @@
-# README
-## This is the README for your extension "the-dark-knight"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# ⚡ The Dark Knight 🦇
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A VS Code dark theme for contrast for nighttime coding. 🌑
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Motivation
 
-**Enjoy!**
+It was really time consuming to setup you code editor overtime you switch different machine. Also i have been always switching back and forth from one color scheme to other according to my preference as not all color scheme will have what you want for your perfect setup. And have a feature for color scheme community was really time consuming. So I decided to build my own and here it is hope you will love it as i do.
+
+## Build status
+
+## Code style
+
+## Screenshots
+
+## Tech/framework used
+
+## Features
+
+## Code Example
+
+## Installation
+
+## API Reference
+
+## Tests
+
+## How to use
+
+## Contribute
+
+## Credits
+
+[Sumesh Majhi](https://github.com/MajhiRockzZ) 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/MajhiRockzZ?style=social)](https://twitter.com/MajhiRockzZ)
+
+## License
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-175x39.png?v=103)](https://opensource.org/licenses/mit-license.php)
