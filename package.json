@@ -4,7 +4,24 @@
     "description": "A VS Code dark theme for contrast for nighttime coding.",
     "version": "1.0.2",
     "publisher": "MajhiRockzZ",
-    "repository": "https://github.com/MajhiRockzZ/the-dark-knight",
+    "author": {
+        "name": "Sumesh Majhi"
+      },
+    "icon": "assets/logo.png",
+    "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "bugs": {
+        "url": "https://github.com/MajhiRockzZ/the-dark-knight/issues",
+        "email": "majhirockzz.me@gmail.com"
+      },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/MajhiRockzZ/the-dark-knight"
+    },
+    "homepage": "https://github.com/MajhiRockzZ/the-dark-knightREADME.md",
     "engines": {
         "vscode": "^1.38.0"
     },
