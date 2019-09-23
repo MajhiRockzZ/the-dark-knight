@@ -4,6 +4,8 @@ All notable changes to the "the-dark-knight" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.1.4] - 2019-09-23
 
-- Initial release
+### Added
+
+- latest released version
