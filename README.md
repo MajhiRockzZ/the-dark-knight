@@ -1,6 +1,7 @@
 # [![My Blog](https://img.shields.io/badge/my%20blog%20%E2%9A%A1-%E2%9E%A1-blueviolet)](https://www.majhirockzz.me/)
 
-## The Dark Knight ![Logo](./assets/titleico.png)
+  ![Logo](./assets/titleico.png)|The Dark Knight ⚡
+------------ | -------------
 
 ### ![The Dark Knight](https://img.shields.io/badge/The%20Dark%20Knight%20-%E2%9A%A1-red) = ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%A6%89-lightgrey) + ![Dracula](https://img.shields.io/badge/Dracula-%F0%9F%A6%87-critical) + ![Shades of Purple](https://img.shields.io/badge/%F0%9F%92%99-Shades%20of%20Purple-blueviolet)
 
@@ -29,6 +30,9 @@ It was really time consuming to setup you code editor overtime you switch differ
 5. Click **Install** to install it
 6. Click **Reload** to reload the Code
 7. From the menu bar click: Code > Preferences > Color Theme > **The Dark Knight**
+
+## Features
+What makes your project stand out?
 
 ## Best Settings & Options Guide
 
@@ -93,6 +97,11 @@ It was really time consuming to setup you code editor overtime you switch differ
 [![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/sumesh.majhi.5)
 [![Github](https://github.frapsoft.com/social/github.png)](https://github.com/MajhiRockzZ)
 
+## License
+
+This work by [Sumesh Majhi](https://www.twitter.com/MajhiRockzZ) is licensed under a  International License</a>.
+
+MIT © [MajhiRockzZ](https://www.twitter.com/MajhiRockzZ)
 
   📌| [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ------------ | -------------
