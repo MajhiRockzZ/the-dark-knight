@@ -1,6 +1,7 @@
 # [![My Blog](https://img.shields.io/badge/my%20blog%20%E2%9A%A1-%E2%9E%A1-blueviolet)](https://www.majhirockzz.me/)
 
-  ![Logo](./assets/titleico.png)|The Dark Knight ⚡
+  ![Logo](./assets/titleico.png)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMajhiRockzZ%2Fthe-dark-knight.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMajhiRockzZ%2Fthe-dark-knight?ref=badge_shield)
+|The Dark Knight ⚡
 ------------ | -------------
 
 ![The Dark Knight](https://img.shields.io/badge/The%20Dark%20Knight%20-%E2%9A%A1-red) =  | ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%A6%89-lightgrey) + ![Dracula](https://img.shields.io/badge/Dracula-%F0%9F%A6%87-critical) + ![Shades of Purple](https://img.shields.io/badge/%F0%9F%92%99-Shades%20of%20Purple-blueviolet)
@@ -108,3 +109,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 This work by [Sumesh Majhi](https://www.twitter.com/MajhiRockzZ) is licensed under a  [MIT License](https://github.com/MajhiRockzZ/the-dark-knight/blob/master/LICENSE)
 
 MIT © [MajhiRockzZ](https://www.twitter.com/MajhiRockzZ)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMajhiRockzZ%2Fthe-dark-knight.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMajhiRockzZ%2Fthe-dark-knight?ref=badge_large)
