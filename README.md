@@ -32,9 +32,6 @@ It was really time consuming to setup you code editor overtime you switch differ
 6. Click **Reload** to reload the Code
 7. From the menu bar click: Code > Preferences > Color Theme > **The Dark Knight**
 
-## Features
-What makes your project stand out?
-
 ## Best Settings & Options Guide
 
 #### *📌 Below setup will help you get the custom theme setting for the PowerShell, command line tool on windows.*
@@ -70,6 +67,14 @@ What makes your project stand out?
 ![VSCode Powerline](https://media.giphy.com/media/SSF1ZcTzI801AUIopA/giphy.gif)
 
 #### *⚡Thats all now you have your awesome development environment to create next big thing.⚡*
+
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/MajhiRockzZ/the-dark-knight/graphs/contributorss).
+
+[![Sumesh Majhi](./assets/majhirockzz.png)](https://github.com/dsifford) |
+:---: |
+[Sumesh Majhi](https://github.com/MajhiRockzZ) |
 
 ## Credits
 
