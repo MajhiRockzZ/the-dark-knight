@@ -1,12 +1,14 @@
-# ⚡ The Dark Knight ⚡ 
+# [![My Blog](https://img.shields.io/badge/my%20blog%20%E2%9A%A1-%E2%9E%A1-blueviolet)](https://www.majhirockzz.me/)
 
-## The Dark Knight ⚡ = (Dracula 👻 + Night Owl 🦉) x Shades of Purple 🍇
+## ⚡ The Dark Knight ⚡
+
+### The Dark Knight ⚡ = (Dracula 👻 + Night Owl 🦉) x Shades of Purple 🍇
 
 ![construction](./assets/uc.png)
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/MajhiRockzZ/the-dark-knight) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/MajhiRockzZ/the-dark-knight) ![GitHub issues](https://img.shields.io/github/issues/MajhiRockzZ/the-dark-knight)
 
-### *⚠ This is a temporary version of this color sceme, The theme will be going to take a lot of up's📈 and down's💹 during its development process so hold on tight and enjoy the roller-coaster ride.*
+#### *⚠ This is a temporary version of this color sceme, The theme will be going to take a lot of up's📈 and down's💹 during its development process so hold on tight and enjoy the roller-coaster ride.*
 
 Author | ⚡[Sumesh Majhi](https://github.com/MajhiRockzZ) ⚡ [![Twitter Follow](https://img.shields.io/twitter/follow/MajhiRockzZ?style=social)](https://twitter.com/MajhiRockzZ)
 ------------ | -------------
