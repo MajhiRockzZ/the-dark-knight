@@ -2,11 +2,7 @@
 
 ## ⚡ The Dark Knight ⚡
 
-### The Dark Knight ⚡ = (Dracula 👻 + Night Owl 🦉) x Shades of Purple 🍇
-
 ![construction](./assets/uc.png)
-
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/MajhiRockzZ/the-dark-knight) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/MajhiRockzZ/the-dark-knight) ![GitHub issues](https://img.shields.io/github/issues/MajhiRockzZ/the-dark-knight) ![Maintenance](https://img.shields.io/maintenance/yes/2019) ![GitHub followers](https://img.shields.io/github/followers/MajhiRockzZ?style=social)
 
 #### *⚠ This is a temporary version of this color sceme, The theme will be going to take a lot of up's📈 and down's💹 during its development process so hold on tight and enjoy the roller-coaster ride.*
 
