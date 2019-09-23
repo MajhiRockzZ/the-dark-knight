@@ -1,8 +1,6 @@
 # ⚡ The Dark Knight 🦇
 
-It was really time consuming to setup you code editor overtime you switch different machine. Also i have been always switching back and forth from one color scheme to other according to my preference as not all color scheme will have what you want for your perfect setup. And have a feature for color scheme community was really time consuming. So I decided to build my own and here it is hope you will love it as i do.
-
-## Build status
+![](./assets/uc.png)
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/MajhiRockzZ/the-dark-knight)
 ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/MajhiRockzZ.the-dark-knight)
@@ -10,9 +8,9 @@ It was really time consuming to setup you code editor overtime you switch differ
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/MajhiRockzZ.the-dark-knight)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MajhiRockzZ/the-dark-knight)
 
-## Screenshots
+It was really time consuming to setup you code editor overtime you switch different machine. Also i have been always switching back and forth from one color scheme to other according to my preference as not all color scheme will have what you want for your perfect setup. And have a feature for color scheme community was really time consuming. So I decided to build my own and here it is hope you will love it as i do.
 
-![The Dark Knight Screenshot](./assets/Screenshot.png)
+![](./assets/main.gif)
 
 ## Features
 
