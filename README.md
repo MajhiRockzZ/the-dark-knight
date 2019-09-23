@@ -61,9 +61,11 @@ It was really time consuming to setup you code editor overtime you switch differ
   * Setup [Operator Mono Ligatures](https://github.com/kiliman/operator-mono-lig) by [Kiliman](https://github.com/kiliman)
 
 #### *💝 At this moment your powershell for windows will look something like this.*
+
 ![PowerShell Powerline](https://media.giphy.com/media/hos6pCnAc8GtvE3f9c/giphy.gif)
 
 #### *⚡ Now if you select powershell as your default terminal in ``vscode`` your will get something like this.*
+
 ![VSCode Powerline](https://media.giphy.com/media/SSF1ZcTzI801AUIopA/giphy.gif)
 
 #### *⚡Thats all now you have your awesome development environment to create next big thing.⚡*
