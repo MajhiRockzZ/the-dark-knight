@@ -47,15 +47,17 @@
     "list.hoverForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#0e293f",
     "list.inactiveSelectionForeground": "#5f7e97",
-    "activityBar.background": "#011627",
+    /* ==== The Dark Knight Activity Bar Start ==== */
+      "activityBar.background": "#000C1D",
+      "activityBar.border": "#102a44",
+      "sideBar.background": "#001122",
+      "sideBar.border": "#102a44",
+      "sideBar.foreground": "#8BADC1",
+    /* ==== The Dark Knight Activity Bar End ==== */
     "activityBar.dropBackground": "#5f7e97",
     "activityBar.foreground": "#5f7e97",
-    "activityBar.border": "#011627",
     "activityBarBadge.background": "#44596b",
     "activityBarBadge.foreground": "#ffffff",
-    "sideBar.background": "#011627",
-    "sideBar.foreground": "#89a4bb",
-    "sideBar.border": "#011627",
     "sideBarTitle.foreground": "#5f7e97",
     "sideBarSectionHeader.background": "#011627",
     "sideBarSectionHeader.foreground": "#5f7e97",
@@ -165,7 +167,7 @@
     "extensionButton.prominentHoverBackground": "#7e57c2",
     "pickerGroup.foreground": "#d1aaff",
     "pickerGroup.border": "#011627",
-    /* ================= Awesome Terminal Start ==================== */
+    /* ==== The Dark Knight Terminal Start ==== */
     "terminal.ansiBlack": "#000000",
     "terminal.ansiRed": "#c23621",
     "terminal.ansiGreen": "#25bc24",
@@ -182,7 +184,7 @@
     "terminal.ansiBrightMagenta": "#f935f8",
     "terminal.ansiBrightCyan": "#14f0f0",
     "terminal.ansiBrightWhite": "#e9ebeb",
-    /* ================= Awesome Terminal End ==================== */
+    /* ==== The Dark Knight Terminal End ==== */
     "terminal.selectionBackground": "#1b90dd4d",
     "terminalCursor.background": "#234d70",
     "debugToolBar.background": "#011627",
