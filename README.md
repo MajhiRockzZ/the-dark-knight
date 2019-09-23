@@ -21,12 +21,14 @@ It was really time consuming to setup you code editor overtime you switch differ
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
 2. Launch Visual Studio Code
 3. Choose **Extensions** from menu
-4. Search for `MajhiRockzZ.the-dark-knight`
+4. Search for `The Dark Knight`
 5. Click **Install** to install it
 6. Click **Reload** to reload the Code
 7. From the menu bar click: Code > Preferences > Color Theme > **The Dark Knight**
 
 ## Best Settings & Options Guide
+
+![](./assets/best.png)
 
 ## Credits
 
