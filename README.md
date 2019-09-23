@@ -100,7 +100,7 @@ What makes your project stand out?
 
 ## License
 
-This work by [Sumesh Majhi](https://www.twitter.com/MajhiRockzZ) is licensed under a  International License</a>.
+This work by [Sumesh Majhi](https://www.twitter.com/MajhiRockzZ) is licensed under a  [MIT License](https://github.com/MajhiRockzZ/the-dark-knight/blob/master/LICENSE)
 
 MIT © [MajhiRockzZ](https://www.twitter.com/MajhiRockzZ)
 
