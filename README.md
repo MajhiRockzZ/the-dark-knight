@@ -64,6 +64,22 @@ It was really time consuming to setup you code editor overtime you switch differ
 
 ## Credits
 
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs) for ``Publishing Extension`` [doc](https://code.visualstudio.com/api/working-with-extensions/publishing-extension).
+* [Canva](https://www.canva.com/) for ``icon, banner, and other designs``.
+* [Dracula](https://github.com/dracula/visual-studio-code) for ``inspiration`` by [Dracula Theme](https://github.com/dracula) ⚡.
+* [Night Owl](https://github.com/sdras/night-owl-vscode-theme) for ``inspiration`` by [Sarah Drasner](https://github.com/sdras) ❤.
+* [Shades of Purple](https://github.com/ahmadawais/shades-of-purple-vscode) for ``inspiration`` by [Ahmad Awais ⚡️](https://github.com/ahmadawais).
+* [Sarah Drasner](https://css-tricks.com/author/sdrasner/) for ``Creating a VS Code Theme`` [blog](https://css-tricks.com/creating-a-vs-code-theme/).
+* [Akash Nimare](https://github.com/akashnimare) for ``A Beginners Guide to writing a Kickass README`` [gist](https://gist.github.com/akashnimare/7b065c12d9750578de8e705fb4771d2f).
+* [ColorSublime](https://colorsublime.github.io/) for color scheme ``inspiration``.
+* [Operator Mono Ligatures](https://github.com/kiliman/operator-mono-lig) for ``OpenType fonts generate  for Operator Mono that includes ligatures`` by [Kiliman](https://github.com/kiliman).
+* [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ``repository`` by [Jan De Dobbeleer](https://github.com/JanDeDobbeleer).
+* [Operator Mono Fonts](https://www.typography.com/fonts/operator/styles) for such an ``awesome fonts``.
+* [Jimmy Chandra](https://gist.github.com/jchandra74) for ``Pimping Up Your PowerShell & Cmder with Posh-Git, Oh-My-Posh, & Powerline Fonts`` [gist](https://gist.github.com/jchandra74/5b0c94385175c7a8d1cb39bc5157365e).
+* [Alex Bertsch](https://github.com/abertsch) for ``Menlo for Powerline`` [repository](https://github.com/abertsch/Menlo-for-Powerline).
+* [Powerline](https://github.com/powerline) for [Powerline](https://github.com/powerline/powerline) and [Powerline fonts](https://github.com/powerline/fonts) ``repository``.
+* [Growing with the Web](https://www.growingwiththeweb.com/) for ``Mastering VS Code's Terminal`` [blog](https://www.growingwiththeweb.com/2017/03/mastering-vscodes-terminal.html) by [Daniel Imms](https://www.growingwiththeweb.com/p/about.html).
+
 [Sumesh Majhi](https://github.com/MajhiRockzZ)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MajhiRockzZ?style=social)](https://twitter.com/MajhiRockzZ)
