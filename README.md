@@ -6,7 +6,7 @@
 
 ### *⚠ This is a temporary version of this color sceme, The theme will be going to take a lot of up's📈 and down's💹 during its development process so hold on tight and enjoy the roller-coaster ride.*
 
-Author | [Sumesh Majhi](https://github.com/MajhiRockzZ) ⚡
+Author | ⚡[Sumesh Majhi](https://github.com/MajhiRockzZ) ⚡ [![Twitter Follow](https://img.shields.io/twitter/follow/MajhiRockzZ?style=social)](https://twitter.com/MajhiRockzZ)
 ------------ | -------------
 Project Version | ![GitHub package.json version](https://img.shields.io/github/package-json/v/MajhiRockzZ/the-dark-knight)
 Project Rating | ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/MajhiRockzZ.the-dark-knight)
@@ -82,8 +82,5 @@ It was really time consuming to setup you code editor overtime you switch differ
 * [Powerline](https://github.com/powerline) for [Powerline](https://github.com/powerline/powerline) and [Powerline fonts](https://github.com/powerline/fonts) ``repository``.
 * [Growing with the Web](https://www.growingwiththeweb.com/) for ``Mastering VS Code's Terminal`` [blog](https://www.growingwiththeweb.com/2017/03/mastering-vscodes-terminal.html) by [Daniel Imms](https://www.growingwiththeweb.com/p/about.html).
 
-[Sumesh Majhi](https://github.com/MajhiRockzZ)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/MajhiRockzZ?style=social)](https://twitter.com/MajhiRockzZ)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-200x34.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
