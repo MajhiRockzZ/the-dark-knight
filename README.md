@@ -82,6 +82,7 @@ It was really time consuming to setup you code editor overtime you switch differ
 * [Alex Bertsch](https://github.com/abertsch) for ``Menlo for Powerline`` [repository](https://github.com/abertsch/Menlo-for-Powerline).
 * [Powerline](https://github.com/powerline) for [Powerline](https://github.com/powerline/powerline) and [Powerline fonts](https://github.com/powerline/fonts) ``repository``.
 * [Growing with the Web](https://www.growingwiththeweb.com/) for ``Mastering VS Code's Terminal`` [blog](https://www.growingwiththeweb.com/2017/03/mastering-vscodes-terminal.html) by [Daniel Imms](https://www.growingwiththeweb.com/p/about.html).
+* [Yeoman](https://yeoman.io/) for ``Yeoman generator for Visual Studio Code Extensions``
 
 ### Contact / Social Media
 
