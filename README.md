@@ -3,7 +3,7 @@
   ![Logo](./assets/titleico.png)|The Dark Knight ⚡
 ------------ | -------------
 
-![The Dark Knight](https://img.shields.io/badge/The%20Dark%20Knight%20-%E2%9A%A1-red)  | ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%A6%89-lightgrey) ➕ ![Dracula](https://img.shields.io/badge/Dracula-%F0%9F%A6%87-critical) ➕ ![Shades of Purple](https://img.shields.io/badge/%F0%9F%92%99-Shades%20of%20Purple-blueviolet)
+![The Dark Knight](https://img.shields.io/badge/The%20Dark%20Knight%20-%E2%9A%A1-red) =  | ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%A6%89-lightgrey) + ![Dracula](https://img.shields.io/badge/Dracula-%F0%9F%A6%87-critical) + ![Shades of Purple](https://img.shields.io/badge/%F0%9F%92%99-Shades%20of%20Purple-blueviolet)
 ------------ | -------------
 
 ![construction](./assets/uc.png)
