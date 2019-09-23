@@ -28,8 +28,6 @@ It was really time consuming to setup you code editor overtime you switch differ
 
 ## Best Settings & Options Guide
 
-![](./assets/best.png)
-
 ## Credits
 
 [Sumesh Majhi](https://github.com/MajhiRockzZ)
