@@ -1,6 +1,8 @@
 # [![My Blog](https://img.shields.io/badge/my%20blog%20%E2%9A%A1-%E2%9E%A1-blueviolet)](https://www.majhirockzz.me/)
 
-## The Dark Knight ⚡
+## The Dark Knight 
+
+![Logo](./assets/icon.png)
 
 #### The Dark Knight = Dracula  + Night Owl + Shades of Purple 
 
