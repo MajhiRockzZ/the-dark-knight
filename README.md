@@ -1,4 +1,4 @@
-# ⚡ The Dark Knight ⚡
+# ⚡ The Dark Knight ⚡ 
 
 ## The Dark Knight ⚡ = (Dracula 👻 + Night Owl 🦉) x Shades of Purple 🍇
 
@@ -13,6 +13,7 @@ Project Rating | ![Visual Studio Marketplace Rating (Stars)](https://img.shields
 Project License | ![GitHub](https://img.shields.io/github/license/MajhiRockzZ/the-dark-knight)
 Theme Installed | ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/MajhiRockzZ.the-dark-knight)
 Project Size | ![GitHub repo size](https://img.shields.io/github/repo-size/MajhiRockzZ/the-dark-knight)
+Tool  | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 It was really time consuming to setup you code editor overtime you switch different machine. Also I have been always switching back and forth from one color scheme to other according to my preference as not all color scheme will have what you want for your perfect setup. So I decided to build my own and here it is hope you will love it as i do. The Dark Knight is a theme created using some of the best features from my three favourite color scheme [Dracula](https://github.com/dracula/visual-studio-code), [Night Owl](https://github.com/sdras/night-owl-vscode-theme), and [Shades of Purple](https://github.com/ahmadawais/shades-of-purple-vscode) a huge thanks to them for their great work.
 
@@ -82,5 +83,10 @@ It was really time consuming to setup you code editor overtime you switch differ
 * [Powerline](https://github.com/powerline) for [Powerline](https://github.com/powerline/powerline) and [Powerline fonts](https://github.com/powerline/fonts) ``repository``.
 * [Growing with the Web](https://www.growingwiththeweb.com/) for ``Mastering VS Code's Terminal`` [blog](https://www.growingwiththeweb.com/2017/03/mastering-vscodes-terminal.html) by [Daniel Imms](https://www.growingwiththeweb.com/p/about.html).
 
+### Contact / Social Media
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-200x34.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+#### *Get the latest News about Web Development, Open Source, JavaScript & React*
+
+[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://www.twitter.com/MajhiRockzZ)
+[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/sumesh.majhi.5)
+[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/MajhiRockzZ)
