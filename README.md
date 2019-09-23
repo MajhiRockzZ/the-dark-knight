@@ -108,6 +108,3 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 This work by [Sumesh Majhi](https://www.twitter.com/MajhiRockzZ) is licensed under a  [MIT License](https://github.com/MajhiRockzZ/the-dark-knight/blob/master/LICENSE)
 
 MIT © [MajhiRockzZ](https://www.twitter.com/MajhiRockzZ)
-
-  📌| [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
------------- | -------------
