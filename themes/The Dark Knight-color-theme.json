@@ -67,10 +67,15 @@
     "editorGroupHeader.noTabsBackground": "#011627",
     "editorGroupHeader.tabsBackground": "#011627",
     "editorGroupHeader.tabsBorder": "#262A39",
-    "tab.activeBackground": "#0b2942",
     "tab.activeForeground": "#d2dee7",
+
+    /* ==== The Dark Knight Tab Background Start ==== */
+    "tab.activeBackground": "#077bf73e",
+    "tab.activeBorder": "#fffb0050",
+    "gitDecoration.ignoredResourceForeground": "#706e6e",
+    /* ==== The Dark Knight Tab Background End ==== */
+
     "tab.border": "#272B3B",
-    "tab.activeBorder": "#262A39",
     "tab.unfocusedActiveBorder": "#262A39",
     "tab.inactiveBackground": "#01111d",
     "tab.inactiveForeground": "#5f7e97",
@@ -142,8 +147,12 @@
     "panelTitle.activeBorder": "#5f7e97",
     "panelTitle.activeForeground": "#ffffffcc",
     "panelTitle.inactiveForeground": "#d6deeb80",
-    "statusBar.background": "#011627",
-    "statusBar.foreground": "#5f7e97",
+
+    /* ==== The Dark Knight Status Bar Start ==== */
+    "statusBar.background": "#0059ffa4",
+    "statusBar.foreground": "#ffffff",
+    /* ==== The Dark Knight Status Bar End ==== */
+
     "statusBar.border": "#262A39",
     "statusBar.debuggingBackground": "#202431",
     "statusBar.debuggingBorder": "#1F2330",
@@ -194,7 +203,6 @@
     "gitDecoration.modifiedResourceForeground": "#a2bffc",
     "gitDecoration.deletedResourceForeground": "#EF535090",
     "gitDecoration.untrackedResourceForeground": "#addb67ff",
-    "gitDecoration.ignoredResourceForeground": "#395a75",
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
   },
   "tokenColors": [{
