@@ -74,7 +74,7 @@ It was really time consuming to setup you code editor overtime you switch differ
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/MajhiRockzZ/the-dark-knight/graphs/contributorss).
 
-[![Sumesh Majhi](./assets/majhirockzz.png)](https://github.com/dsifford) |
+[![Sumesh Majhi](./assets/majhirockzz.png)](https://www.twitter.com/MajhiRockzZ) |
 :---: |
 [Sumesh Majhi](https://github.com/MajhiRockzZ) |
 
